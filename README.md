@@ -2,6 +2,10 @@
 
 > use other plugin with vue
 
+## connect libraries
+
+> arcgis
+
 ## Build Setup
 
 ``` bash
